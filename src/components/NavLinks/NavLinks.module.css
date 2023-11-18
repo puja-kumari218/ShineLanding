@@ -1,0 +1,121 @@
+.discover {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.14px;
+  line-height: 18.67px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.withSuperfast5g {
+  position: absolute;
+  top: 4400px;
+  left: calc(50% + 235px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 174px;
+  height: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 15.109375px 6.65625px var(--padding-mini);
+}
+.ulglobalnavList {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 887px;
+  height: 44px;
+}
+.blog,
+.features,
+.ourOffers,
+.prices,
+.resources {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.5px;
+  line-height: 27px;
+}
+.blog,
+.features,
+.prices,
+.resources {
+  left: 139px;
+}
+.blog,
+.prices,
+.resources {
+  left: 265px;
+}
+.blog,
+.prices {
+  left: 406px;
+}
+.prices {
+  left: 497px;
+}
+.frame,
+.ourOffersParent {
+  position: absolute;
+  top: 9px;
+  left: 122px;
+  width: 547px;
+  height: 27px;
+}
+.frame {
+  top: 0;
+  left: 313px;
+  width: 887px;
+  height: 44px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-white);
+}
+.littleThingsThat,
+.littleThingsThat1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 646px);
+  letter-spacing: -0.28px;
+  line-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 611px;
+}
+.littleThingsThat1 {
+  top: 1px;
+  left: calc(50% + 113px);
+  color: var(--color-white);
+  width: 533px;
+}
+.frame1 {
+  position: absolute;
+  top: 4268px;
+  left: 52px;
+  width: 1292px;
+  height: 61px;
+  overflow: hidden;
+  font-size: var(--font-size-26xl);
+  color: var(--color-gray-400);
+}
+.global1 {
+  position: absolute;
+  width: 100%;
+  top: 70px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gray-500);
+  height: 44px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-arial);
+}

@@ -1,0 +1,8 @@
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  background-color: var(--color-whitesmoke-100);
+  width: 1466px;
+  height: 1650px;
+}

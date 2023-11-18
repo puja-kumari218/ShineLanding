@@ -1,0 +1,50 @@
+.invoiceCashOut {
+  position: absolute;
+  top: 229px;
+  left: calc(50% - 657.5px);
+  letter-spacing: 0.11px;
+  line-height: 31px;
+  display: flex;
+  align-items: center;
+  width: 454px;
+}
+.littleThingsThatContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.littleThingsThatContainer {
+  position: absolute;
+  top: 61px;
+  left: calc(50% - 657.5px);
+  font-size: var(--font-size-41xl);
+  letter-spacing: -0.28px;
+  display: flex;
+  align-items: center;
+  width: 499px;
+}
+.figureunitImageIcon {
+  position: absolute;
+  bottom: 0;
+  left: 546px;
+  width: 769px;
+  height: 340px;
+  object-fit: cover;
+}
+.frame,
+.frame1 {
+  position: absolute;
+  top: 0;
+  left: 83px;
+  width: 1315px;
+  height: 340px;
+  overflow: hidden;
+}
+.frame {
+  top: 202px;
+  left: 21px;
+  width: 1398px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke-300);
+  font-family: var(--font-arial);
+}
